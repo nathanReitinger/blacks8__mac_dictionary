@@ -8,7 +8,7 @@ $$
 
 This repo provides an accessible, yet outdated, version of [Black's Law Dictionary](https://search.worldcat.org/title/Black's-law-dictionary/oclc/44045815), which—as a primarily printed or digital but-hard-to-use resource—is not accessible to individuals with disabilities. By wrapping the dictionary in a ".dictionary" format, the user can receive offline, no-Internet-connectivity-required text-to-speech definitions, or use a screenreader, to explore the dictionary. 
 
-
+Check out this demo, and turn audio on! https://cultofthepartyparrot.com/parrots/hd/parrot.gif![image](https://github.com/user-attachments/assets/4ae4d3ea-e308-4aa9-a92d-cb72c6bf98cc)
 
 https://github.com/user-attachments/assets/0b0e562c-baea-4633-83d8-f6196334e97f
 
